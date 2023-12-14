@@ -1,0 +1,15 @@
+/* Import Google font - Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+  background-image: url("./photo-1534274988757-a28bf1a57c17.jpg");
+  background-size: cover;
+}
+.current-weather img {
+  max-width: 120px;
+  margin-top: -15px;
+}
+
